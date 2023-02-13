@@ -24,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/demo-module-1/src/com/duyi/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding>
                 <element signature="e#86#87#0" expanded="true" />
                 <element signature="e#128#129#0" expanded="true" />
@@ -131,7 +131,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
@@ -177,7 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675239990860</updated>
       <workItem from="1675239992096" duration="3505000" />
-      <workItem from="1676255247763" duration="2062000" />
+      <workItem from="1676255247763" duration="2930000" />
     </task>
     <task id="LOCAL-00001" summary="尝试进行第一次更改">
       <created>1675240451817</created>
@@ -214,11 +214,25 @@
       <option name="project" value="LOCAL" />
       <updated>1676255706513</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第三次修次添加：&#10;    通过令牌添加了github帐号">
+      <created>1676257532581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676257532581</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第三次修次添加：&#10;    通过令牌添加了github帐号">
+      <created>1676257969297</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676257969297</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5567000" />
+    <option name="totallyTimeSpent" value="6435000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -232,7 +246,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33579087" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33579087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -250,7 +264,7 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32968238" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.32808024" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.32808024" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
@@ -314,7 +328,8 @@
     <MESSAGE value="尝试进行第三次更改" />
     <MESSAGE value="第一次添加" />
     <MESSAGE value="第二次添加" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次添加" />
+    <MESSAGE value="第三次修次添加：&#10;    通过令牌添加了github帐号" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次修次添加：&#10;    通过令牌添加了github帐号" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -346,7 +361,7 @@
     <entry file="file://$PROJECT_DIR$/demo-module-1/src/com/duyi/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
           <folding>
             <element signature="e#86#87#0" expanded="true" />
             <element signature="e#128#129#0" expanded="true" />
